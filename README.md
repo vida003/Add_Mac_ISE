@@ -1,5 +1,7 @@
 # Add-Mac-to-ISE
 
+![](https://community.cisco.com/t5/image/serverpage/image-id/88717i58C1026086094BD0?v=v2)
+
 ## Funcionalidade
 ### Adiciona MACs automático em um Identity Group no ISE
 ### Ele pede a descrição do grupo, caso o grupo já exista ele não altera a descrição, apenas adiciona os MACs no grupo já existente, além de conseguir criar um grupo e adicionar os MACs automáticos
